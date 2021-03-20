@@ -18,7 +18,7 @@ namespace Projetil
             double altura;
 
             Console.WriteLine("--------------");
-            Console.WriteLine("-- Projétil --");
+            Console.WriteLine("-- Lançamento do Projétil --");
             Console.WriteLine("--------------");
 
             Console.Write("Entre com a velocidade, em m/..: ");
